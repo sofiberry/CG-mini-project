@@ -2,7 +2,7 @@
 
 ## A Moving Car
 
-- ** computer graphics team project **
+- **computer graphics team project**
 
 #### our team
 
