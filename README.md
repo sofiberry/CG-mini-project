@@ -4,7 +4,7 @@
 
 - **computer graphics team project**
 
-#### our team
+### our team
 
 1. solomon belay
 2. yihune zewdie
