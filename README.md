@@ -1,6 +1,6 @@
 # CG-mini-project
 
-## A Moving Car
+## TITLE: A Moving Car
 
 - **computer graphics team project**
 
